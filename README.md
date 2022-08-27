@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+![](https://github.com/SelvaKarthik17/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/SelvaKarthik17/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+
+<!--
 ![](https://raw.githubusercontent.com/SelvaKarthik17/GitHub-Stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SelvaKarthik17/GitHub-Stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<!--
 **SelvaKarthik17/SelvaKarthik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
